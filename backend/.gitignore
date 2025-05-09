@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pydantic cache
+__pydantic__/ 
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# Local env
+.env
+.env.*
+
+# SQLite / DB files
+*.sqlite3
+
+# Docker artifacts
+*.pid
+*.db
+*.tar
